@@ -6,7 +6,7 @@
 
 This document provides an in-depth overview of the referral and reward systems designed for a decentralized application (dApp) ecosystem, with a particular focus on gaming, gambling, and user interactions and activities based dApps. The referral system encourages user engagement by rewarding those who invite new users, while the reward system incentivizes participation through various activities within gaming and gambling platforms or any other system or dApp. These systems are independent but interact to enhance overall user benefits and system effectiveness.
 
-### Referral System
+## Referral System
 
 #### Objectives
 
@@ -36,7 +36,7 @@ This document provides an in-depth overview of the referral and reward systems d
 #### Referral Process
 
 1. **Token Creation and Distribution:**
-   - Central authority or smart contract creates a large number of referral tokens.
+   - Central authority creates a large number of referral tokens and distribute them on smart contracts.
    - Users obtain referral tokens from the central authority or buy them on a smart contract.
 
 2. **Inviting Friends:**
@@ -54,7 +54,7 @@ This document provides an in-depth overview of the referral and reward systems d
    - Smart contracts validate and lock the referral tokens to prevent alteration.
 
 2. **Initial Token Acquisition:**
-   - Users claim initial tokens from a faucet or through a minimal transaction with the central authority.
+   - Users claim initial tokens from a faucet or through a minima transaction with the central authority.
    - Alternatively, use Maxima to request and receive tokens directly.
 
 3. **Tracking Referrals:**
