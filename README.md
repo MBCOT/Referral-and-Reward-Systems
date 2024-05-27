@@ -37,7 +37,7 @@ This document provides an in-depth overview of the referral and reward systems d
 
 1. **Token Creation and Distribution:**
    - Central authority or smart contract creates a large number of referral tokens.
-   - Users obtain referral tokens from the central authority or purchase them on a decentralized exchange (DEX).
+   - Users obtain referral tokens from the central authority or buy them on a smart contract.
 
 2. **Inviting Friends:**
    - User sends a referral link containing the Identity Token to friends.
@@ -61,7 +61,7 @@ This document provides an in-depth overview of the referral and reward systems d
    - Identity Tokens track referrals on the state variables.
    - Archive nodes can get referral trees for complex reward distribution from the coin ID of an Identity Token.
 
-### Reward System
+## Reward System
 
 #### Objectives
 
@@ -112,7 +112,7 @@ This document provides an in-depth overview of the referral and reward systems d
 
 2. **Referral Token Distribution:**
    - Central authority or smart contract issues trillions of referral tokens.
-   - Users obtain tokens via DEX or directly from a central authority.
+   - Users obtain tokens via smart contract or directly from a central authority.
 
 3. **User Invitation:**
    - The user generates an invite link with the Identity Token.
@@ -152,7 +152,7 @@ This document provides an in-depth overview of the referral and reward systems d
 
 3. **Reward Distribution:**
    - User B engages in gaming or gambling activities and earns rewards.
-   - A percentage of User B’s earnings is sent to User A’s wallet.
+   - A percentage of User B’s earnings is sent to User A’s wallet (just an example use case).
 
 ### Interaction Between Referral and Reward Systems
 
